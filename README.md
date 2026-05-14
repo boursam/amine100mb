@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 style="font-size: 2.5em; margin-bottom: 0.2em;">
-Mohamed Amine Boursam — Amine100MB
+Mohamed Amine Boursam
 </h1>
 
 <h3 style="font-size: 1.4em; font-weight: 400; margin-bottom: 0.2em;">
