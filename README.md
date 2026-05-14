@@ -1,9 +1,8 @@
 <div align="center">
 ```
-╔══════════════════════════════════════════════════════════════╗
-║           Mohamed Amine Boursam — Amine100MB                ║
-║        Systems & Network Engineer · DevOps Enthusiast        ║
-╚══════════════════════════════════════════════════════════════╝
+ Mohamed Amine Boursam — Amine100MB
+Systems & Network Engineer · DevOps Practionner
+
 ```
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamedamineboursam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedamineboursam)
@@ -18,14 +17,6 @@
 > System Administrator at **SEAAL** · Master's in Networks & Distributed Systems · USTHB Algiers
  
 I architect and operate production-grade infrastructure — Kubernetes clusters, CI/CD pipelines, monitoring stacks, and containerized platforms. Passionate about automation, high availability, and the DevOps culture.
- 
-```yaml
-name:     Mohamed Amine Boursam
-role:     System Administrator & DevOps Enthusiast
-location: Algiers, Algeria
-current:  SEAAL (Société des Eaux et de l'Assainissement d'Alger)
-degree:   Master in Networks and Distributed Systems — USTHB (2023–2025)
-```
  
 ---
  
